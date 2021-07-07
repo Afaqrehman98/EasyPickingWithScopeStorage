@@ -1,4 +1,4 @@
-package com.example.scopestoragelibrary
+package com.easypicking.scopestoragelibrary
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.scopestoragelibrary
+package com.easypicking.scopestoragelibrary
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -9,7 +9,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.example.scopestoragelibrary"
+        applicationId "com.easypicking.scopestoragelibrary"
         minSdkVersion 22
         targetSdkVersion 30
         versionCode 1
